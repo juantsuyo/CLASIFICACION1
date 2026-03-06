@@ -88,7 +88,6 @@ python-dateutil==2.9.0.post0
 python-json-logger==4.0.0
 pytz==2026.1.post1
 pywin32==311
-pywinpty
 PyYAML==6.0.3
 pyzmq==27.1.0
 referencing==0.35.1
@@ -124,4 +123,5 @@ webcolors==24.8.0
 webencodings==0.5.1
 websocket-client==1.8.0
 zipp==3.20.2
+
 
